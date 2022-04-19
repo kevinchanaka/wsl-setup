@@ -10,3 +10,4 @@ wsl-setup
 tmp
 cdk.out
 cdk.out/**
+go

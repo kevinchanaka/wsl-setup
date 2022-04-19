@@ -5,7 +5,10 @@ Setup steps for my WSL development environment
 
 ### Environment setup
 
-1. Install WSL Ubuntu environment using distrod (https://github.com/nullpo-head/wsl-distrod)  
+1. Install WSL Ubuntu environment using distrod (https://github.com/nullpo-head/wsl-distrod)
+```
+distrod_wsl_launcher.exe -d Ubuntu
+```
 2. Install base packages (curl, git, wget, docker etc.)
 ```
 sudo apt update
